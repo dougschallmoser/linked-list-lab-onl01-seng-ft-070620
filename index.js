@@ -28,6 +28,8 @@ function addressAt(index, list, collection) {
 }
 
 function indexAt(node, collection, list) {
-  let currentNode = headNode
+  let currentNode = headNode;
+  
+  while
 }
 
